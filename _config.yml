@@ -1,0 +1,28 @@
+name: Conch Sound Flats
+favicon: null
+layout_spectrum: 0.7453783703967929
+typography_spectrum: 0.1868148383218795
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.44984571961686015
+  lightness: 0.745213063666597
+  saturation: 0.23734838096424937
+  rhythmicContrast: 0.35877535678446293
+purpose: []
